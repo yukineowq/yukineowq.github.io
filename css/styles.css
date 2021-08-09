@@ -236,11 +236,11 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #7F77C5;
   text-decoration: underline;
 }
 a:hover {
-  color: #974a2d;
+  color: #4D7FFF;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -7706,7 +7706,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: #FF7CA6 !important;
+  color: #7F77C5 !important;
 }
 
 .text-secondary {
@@ -7797,7 +7797,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: #3B2144 !important;
+  background-color: #7F77C5 !important;
 }
 
 .bg-secondary {
@@ -11315,6 +11315,7 @@ p.lead {
   text-transform: uppercase;
   font-weight: 500;
   font-size: 1.5rem;
+  color: #979797;
 }
 
 #sideNav {
