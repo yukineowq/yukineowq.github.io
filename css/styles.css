@@ -11378,8 +11378,7 @@ p.lead {
 .social-icons {
   display: flex;
   position: absolute;
-  
-  left: 26%;
+  left: 50%;
   transform: translate(-50%, -50%);
   list-style: none;
 } 
