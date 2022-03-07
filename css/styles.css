@@ -238,7 +238,7 @@ sup {
 }
 
 a {
-  color: #7F77C5;
+  color: #87CEFA;
   text-decoration: underline;
 }
 a:hover {
@@ -7709,7 +7709,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: #7F77C5 !important;
+  color: #87CEFA !important;
 }
 
 .text-secondary {
@@ -7800,7 +7800,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: #7F77C5 !important;
+  background-color: #87CEFA !important;
 }
 
 .bg-secondary {
